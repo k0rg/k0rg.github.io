@@ -32,9 +32,10 @@ url: https://k0rg.github.io  # the base hostname and protocol for your site, e.g
 # baseurl: /k0rg/      # place folder name if the site is served in a subfolder
 
 # Build settings
-theme: jekyll-theme-midnight
+remote_theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
