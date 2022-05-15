@@ -35,8 +35,8 @@ url: https://k0rg.github.io  # the base hostname and protocol for your site, e.g
 # remote_theme: pages-themes/midnight
 theme: midnight
 plugins:
- #- jekyll-feed
-  - jekyll-remote-theme
+  - jekyll-feed
+# - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -57,5 +57,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-theme: jekyll-theme-midnight
