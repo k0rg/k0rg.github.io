@@ -229,7 +229,7 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
-    json (2.6.1)
+    json (2.6.2)
     kramdown (2.3.2)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -328,6 +328,8 @@ DEPENDENCIES
   html-proofer (~> 3.0)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
+  jekyll-seo-tag
+  jekyll-sitemap
   jekyll-theme-midnight!
   rubocop-github (~> 0.16)
   tzinfo (~> 1.2)

@@ -36,6 +36,8 @@ url: https://k0rg.github.io  # the base hostname and protocol for your site, e.g
 theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 # - jekyll-remote-theme
 
 # Exclude from processing.
