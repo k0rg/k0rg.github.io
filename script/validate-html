@@ -26,4 +26,4 @@ end
 
 validate "index.html"
 validate File.join "assets", "css", "style.css"
-HTMLProofer.check_directory("./_site", http_status_ignore: [999]).run
+validate ("./_site", http_status_ignore: [999])
