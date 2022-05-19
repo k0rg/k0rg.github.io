@@ -23,6 +23,7 @@ email: mail@k0rg.com
 description: >- # this means to ignore newlines until "baseurl:"
   My infosec learning journey
 baseurl: "" # the subpath of your site, e.g. /blog
+repository: k0rg/k0rg.github.io
 url: https://k0rg.com # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  k0rg
