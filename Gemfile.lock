@@ -331,7 +331,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 226)
-  html-proofer (~> 3.0)
+  html-proofer
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
   jekyll-seo-tag
